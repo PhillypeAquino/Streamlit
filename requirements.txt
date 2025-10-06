@@ -1,0 +1,13 @@
+pandas
+numpy
+pyarrow
+python-dotenv
+httpx
+tenacity
+pydantic
+scikit-learn
+streamlit
+plotly
+backoff
+altair
+statsmodel
