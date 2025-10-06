@@ -11,3 +11,4 @@ plotly
 backoff
 altair
 statsmodel
+pyarrow
